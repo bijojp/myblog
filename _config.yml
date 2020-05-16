@@ -36,10 +36,13 @@ signature-img: img/signature/BeanTechSign-white.png
 # RSS: false
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
-github_username:    bijojp
-# twitter_username:   Demonbane_x
-# facebook_username:  xxx
 linkedin_username:  bijojp
+github_username:    bijojp
+medium_username:  bijojohn
+twitter_username:   bijojpanicker
+# facebook_username:  xxx
+
+
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -142,7 +145,7 @@ home_posts_tag: true # show posts tags
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD-MM-YYYY
 time_format: HH:mm:ss
 
 # Pagination
@@ -203,7 +206,7 @@ alipay: alipay_url
 
 # Share
 # Reference: https://github.com/overtrue/share.js
-share: true
+share: false
 
 # Reference: https://github.com/YuyingWu/hexo-generator-index-plus
 index_generator_plus:
@@ -226,3 +229,5 @@ deploy:
   repository: https://github.com/huweihuang/hexo-theme-huweihuang
   branch: gh-pages
   message: Update CNAME
+
+#bijo change this url
