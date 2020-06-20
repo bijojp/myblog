@@ -13,6 +13,9 @@ updateDate: 2018-12-23 22:26:24
 top: 1
 
 ---
+
+![Theme HuWeihuang](https://res.cloudinary.com/dqxtn0ick/image/upload/v1553666111/blog/blog.jpg)
+
 > This HuWeihuang theme created by [HuWeihuang](http://www.huweihuang.com/) modified from the original Porter [YuHsuan](https://github.com/YenYuHsuan/hexo-theme-beantech)
 
 # Live Demo

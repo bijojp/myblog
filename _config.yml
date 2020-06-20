@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: This is Bijo
+title: WIP, thanks for visiting.
 subtitle: 
 author: Bijo
 language:
@@ -226,8 +226,8 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/huweihuang/hexo-theme-huweihuang
-  branch: gh-pages
+  repository: https://github.com/bijojp/pmblog
+  branch: master
   message: Update CNAME
 
 #bijo change this url
