@@ -27,7 +27,7 @@ Hu Weihuang Blog : [www.huweihuang.com](http://www.huweihuang.com/)
 # Install Hexo
 
 Install Node.js  and Git
-
+c
 ```shell
 #For Mac
 brew install node
