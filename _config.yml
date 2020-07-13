@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: WIP, thanks for visiting :)
+title: Bijo J Panicker
 subtitle: 
 author: Bijo
 language:
@@ -67,7 +67,7 @@ ga_domain: yoursite
 
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
-sidebar-about-description: "This is bijo."
+sidebar-about-description: "Hey, This is bijo."
 sidebar-avatar: /img/avatar/ironman.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
